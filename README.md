@@ -7,7 +7,11 @@ Feel free to contribute by adding more resources or suggesting improvements. Hap
 ---
 
 ## SQL Complete Roadmap
-https://github.com/qamaruddin-khichi/SQL-Complete-Roadmap.git
+
+For a complete SQL learning journey, check out the **SQL Complete Roadmap.pdf** I've created:  
+[SQL Complete Roadmap](https://github.com/qamaruddin-khichi/SQL-Complete-Roadmap.git)
+
+It will guide you through essential topics and concepts, from beginner to advanced levels!
 
 ---
 
